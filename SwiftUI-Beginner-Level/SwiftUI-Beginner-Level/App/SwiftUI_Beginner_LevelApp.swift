@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_Beginner_LevelApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TextBootcamp()
         }
     }
 }
