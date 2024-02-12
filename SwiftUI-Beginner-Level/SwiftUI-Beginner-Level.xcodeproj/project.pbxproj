@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		07070AC02B7A4B4500348E9C /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07070ABF2B7A4B4500348E9C /* ButtonBootcamp.swift */; };
+		07070AC22B7A4D6E00348E9C /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07070AC12B7A4D6E00348E9C /* StateBootcamp.swift */; };
 		07B4053D2B78D3F4001D2AF1 /* SwiftUI_Beginner_LevelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B4053C2B78D3F4001D2AF1 /* SwiftUI_Beginner_LevelApp.swift */; };
 		07B405412B78D3F6001D2AF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07B405402B78D3F6001D2AF1 /* Assets.xcassets */; };
 		07B405452B78D3F6001D2AF1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07B405442B78D3F6001D2AF1 /* Preview Assets.xcassets */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		07070ABF2B7A4B4500348E9C /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
+		07070AC12B7A4D6E00348E9C /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		07B405392B78D3F4001D2AF1 /* SwiftUI-Beginner-Level.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Beginner-Level.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07B4053C2B78D3F4001D2AF1 /* SwiftUI_Beginner_LevelApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Beginner_LevelApp.swift; sourceTree = "<group>"; };
 		07B405402B78D3F6001D2AF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				07FAA20E2B79FFF3009C5EC4 /* GridBootcamp.swift */,
 				07FAA2102B7A0307009C5EC4 /* SaveAreaBootcamp.swift */,
 				07070ABF2B7A4B4500348E9C /* ButtonBootcamp.swift */,
+				07070AC12B7A4D6E00348E9C /* StateBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				07B405502B78D8C2001D2AF1 /* ShapesBootcamp.swift in Sources */,
 				07070AC02B7A4B4500348E9C /* ButtonBootcamp.swift in Sources */,
 				07FAA2112B7A0307009C5EC4 /* SaveAreaBootcamp.swift in Sources */,
+				07070AC22B7A4D6E00348E9C /* StateBootcamp.swift in Sources */,
 				07B405582B78E04A001D2AF1 /* ImageBootcamp.swift in Sources */,
 				07B405562B78DF24001D2AF1 /* IconsBootcamp.swift in Sources */,
 				07FAA2072B79F71D009C5EC4 /* SpacerBootcamp.swift in Sources */,
