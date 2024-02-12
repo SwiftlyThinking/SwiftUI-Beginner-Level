@@ -19,6 +19,7 @@
 		07B4055A2B78E237001D2AF1 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B405592B78E237001D2AF1 /* FrameBootcamp.swift */; };
 		07B4055C2B78E897001D2AF1 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B4055B2B78E897001D2AF1 /* BackgroundAndOverlayBootcamp.swift */; };
 		07B4055E2B78EBA2001D2AF1 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B4055D2B78EBA2001D2AF1 /* StacksBootcamp.swift */; };
+		07FAA2052B79F6D9009C5EC4 /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FAA2042B79F6D9009C5EC4 /* PaddingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		07B405592B78E237001D2AF1 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		07B4055B2B78E897001D2AF1 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		07B4055D2B78EBA2001D2AF1 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		07FAA2042B79F6D9009C5EC4 /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				07B405592B78E237001D2AF1 /* FrameBootcamp.swift */,
 				07B4055B2B78E897001D2AF1 /* BackgroundAndOverlayBootcamp.swift */,
 				07B4055D2B78EBA2001D2AF1 /* StacksBootcamp.swift */,
+				07FAA2042B79F6D9009C5EC4 /* PaddingBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07B405542B78DCF3001D2AF1 /* GradientsBootcamp.swift in Sources */,
+				07FAA2052B79F6D9009C5EC4 /* PaddingBootcamp.swift in Sources */,
 				07B4053D2B78D3F4001D2AF1 /* SwiftUI_Beginner_LevelApp.swift in Sources */,
 				07B405502B78D8C2001D2AF1 /* ShapesBootcamp.swift in Sources */,
 				07B405582B78E04A001D2AF1 /* ImageBootcamp.swift in Sources */,
