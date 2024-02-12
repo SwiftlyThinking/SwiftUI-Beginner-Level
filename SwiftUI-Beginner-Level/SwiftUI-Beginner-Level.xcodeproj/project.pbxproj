@@ -22,6 +22,7 @@
 		07FAA2052B79F6D9009C5EC4 /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FAA2042B79F6D9009C5EC4 /* PaddingBootcamp.swift */; };
 		07FAA2072B79F71D009C5EC4 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FAA2062B79F71D009C5EC4 /* SpacerBootcamp.swift */; };
 		07FAA2092B79F944009C5EC4 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FAA2082B79F944009C5EC4 /* InitializerBootcamp.swift */; };
+		07FAA20B2B79FC32009C5EC4 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FAA20A2B79FC32009C5EC4 /* ForEachBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		07FAA2042B79F6D9009C5EC4 /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 		07FAA2062B79F71D009C5EC4 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		07FAA2082B79F944009C5EC4 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
+		07FAA20A2B79FC32009C5EC4 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				07FAA2042B79F6D9009C5EC4 /* PaddingBootcamp.swift */,
 				07FAA2062B79F71D009C5EC4 /* SpacerBootcamp.swift */,
 				07FAA2082B79F944009C5EC4 /* InitializerBootcamp.swift */,
+				07FAA20A2B79FC32009C5EC4 /* ForEachBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				07B4055E2B78EBA2001D2AF1 /* StacksBootcamp.swift in Sources */,
 				07B405522B78DA77001D2AF1 /* ColorsBootcamp.swift in Sources */,
 				07B4055A2B78E237001D2AF1 /* FrameBootcamp.swift in Sources */,
+				07FAA20B2B79FC32009C5EC4 /* ForEachBootcamp.swift in Sources */,
 				07B4054E2B78D635001D2AF1 /* TextBootcamp.swift in Sources */,
 				07B4055C2B78E897001D2AF1 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 			);
