@@ -11,6 +11,7 @@
 		07070AC22B7A4D6E00348E9C /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07070AC12B7A4D6E00348E9C /* StateBootcamp.swift */; };
 		0789F4722B7D0CC60077C37E /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4712B7D0CC60077C37E /* ListBootcamp.swift */; };
 		0789F4742B7D11C40077C37E /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4732B7D11C40077C37E /* AlertBootcamp.swift */; };
+		0789F4762B7D16A70077C37E /* ConfirmationDialogBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */; };
 		07A189312B7A7DE000125D9F /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A189302B7A7DE000125D9F /* ExtractedFunctionsBootcamp.swift */; };
 		07A189332B7A7E3700125D9F /* ExtractedSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A189322B7A7E3700125D9F /* ExtractedSubviewsBootcamp.swift */; };
 		07A189352B7A7E7C00125D9F /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A189342B7A7E7C00125D9F /* BindingBootcamp.swift */; };
@@ -47,6 +48,7 @@
 		07070AC12B7A4D6E00348E9C /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		0789F4712B7D0CC60077C37E /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		0789F4732B7D11C40077C37E /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogBootcamp.swift; sourceTree = "<group>"; };
 		07A189302B7A7DE000125D9F /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 		07A189322B7A7E3700125D9F /* ExtractedSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedSubviewsBootcamp.swift; sourceTree = "<group>"; };
 		07A189342B7A7E7C00125D9F /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 				07C378472B7BB95200E1A352 /* NavigationViewBootcamp.swift */,
 				0789F4712B7D0CC60077C37E /* ListBootcamp.swift */,
 				0789F4732B7D11C40077C37E /* AlertBootcamp.swift */,
+				0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0789F4762B7D16A70077C37E /* ConfirmationDialogBootcamp.swift in Sources */,
 				07C378422B7BB32600E1A352 /* TransitionBootcamp.swift in Sources */,
 				07B405542B78DCF3001D2AF1 /* GradientsBootcamp.swift in Sources */,
 				07A189332B7A7E3700125D9F /* ExtractedSubviewsBootcamp.swift in Sources */,
