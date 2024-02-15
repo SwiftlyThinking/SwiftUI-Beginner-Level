@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		07070AC02B7A4B4500348E9C /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07070ABF2B7A4B4500348E9C /* ButtonBootcamp.swift */; };
 		07070AC22B7A4D6E00348E9C /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07070AC12B7A4D6E00348E9C /* StateBootcamp.swift */; };
+		071667B22B7E8B75008A2851 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071667B12B7E8B75008A2851 /* TabViewBootcamp.swift */; };
 		0789F4722B7D0CC60077C37E /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4712B7D0CC60077C37E /* ListBootcamp.swift */; };
 		0789F4742B7D11C40077C37E /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4732B7D11C40077C37E /* AlertBootcamp.swift */; };
 		0789F4762B7D16A70077C37E /* ConfirmationDialogBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */; };
@@ -55,6 +56,7 @@
 /* Begin PBXFileReference section */
 		07070ABF2B7A4B4500348E9C /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		07070AC12B7A4D6E00348E9C /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
+		071667B12B7E8B75008A2851 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		0789F4712B7D0CC60077C37E /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		0789F4732B7D11C40077C37E /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogBootcamp.swift; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				07A8FEF42B7E51BA0025334E /* DatePickerBootcamp.swift */,
 				07A8FEF62B7E540D0025334E /* StepperBootcamp.swift */,
 				07A8FEF82B7E55C80025334E /* SliderBootcamp.swift */,
+				071667B12B7E8B75008A2851 /* TabViewBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 				07B405562B78DF24001D2AF1 /* IconsBootcamp.swift in Sources */,
 				07FAA2072B79F71D009C5EC4 /* SpacerBootcamp.swift in Sources */,
 				07FAA2092B79F944009C5EC4 /* InitializerBootcamp.swift in Sources */,
+				071667B22B7E8B75008A2851 /* TabViewBootcamp.swift in Sources */,
 				0789F4782B7D1A5D0077C37E /* ContextMenuBootcamp.swift in Sources */,
 				0789F47A2B7D1BDA0077C37E /* TextFieldBootcamp.swift in Sources */,
 				07FAA20F2B79FFF3009C5EC4 /* GridBootcamp.swift in Sources */,
