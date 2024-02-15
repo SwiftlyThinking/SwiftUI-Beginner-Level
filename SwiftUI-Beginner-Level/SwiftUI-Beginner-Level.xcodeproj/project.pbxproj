@@ -14,6 +14,7 @@
 		071667B62B7E9011008A2851 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071667B52B7E9011008A2851 /* TapGestureBootcamp.swift */; };
 		071667B82B7E92D0008A2851 /* ObservableObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071667B72B7E92D0008A2851 /* ObservableObjectBootcamp.swift */; };
 		071667BA2B7E9905008A2851 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071667B92B7E9905008A2851 /* EnvironmentObjectBootcamp.swift */; };
+		071667BC2B7E9CBD008A2851 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071667BB2B7E9CBD008A2851 /* AppStorageBootcamp.swift */; };
 		0789F4722B7D0CC60077C37E /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4712B7D0CC60077C37E /* ListBootcamp.swift */; };
 		0789F4742B7D11C40077C37E /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4732B7D11C40077C37E /* AlertBootcamp.swift */; };
 		0789F4762B7D16A70077C37E /* ConfirmationDialogBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */; };
@@ -65,6 +66,7 @@
 		071667B52B7E9011008A2851 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 		071667B72B7E92D0008A2851 /* ObservableObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableObjectBootcamp.swift; sourceTree = "<group>"; };
 		071667B92B7E9905008A2851 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
+		071667BB2B7E9CBD008A2851 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 		0789F4712B7D0CC60077C37E /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		0789F4732B7D11C40077C37E /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogBootcamp.swift; sourceTree = "<group>"; };
@@ -213,6 +215,7 @@
 				071667B52B7E9011008A2851 /* TapGestureBootcamp.swift */,
 				071667B72B7E92D0008A2851 /* ObservableObjectBootcamp.swift */,
 				071667B92B7E9905008A2851 /* EnvironmentObjectBootcamp.swift */,
+				071667BB2B7E9CBD008A2851 /* AppStorageBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				0789F4722B7D0CC60077C37E /* ListBootcamp.swift in Sources */,
 				07C378402B7BB15A00E1A352 /* AnimationTimingBootcamp.swift in Sources */,
 				07A189312B7A7DE000125D9F /* ExtractedFunctionsBootcamp.swift in Sources */,
+				071667BC2B7E9CBD008A2851 /* AppStorageBootcamp.swift in Sources */,
 				07C3783C2B7BAE5F00E1A352 /* TernaryBootcamp.swift in Sources */,
 				07A8FEF92B7E55C80025334E /* SliderBootcamp.swift in Sources */,
 				07B4055A2B78E237001D2AF1 /* FrameBootcamp.swift in Sources */,
