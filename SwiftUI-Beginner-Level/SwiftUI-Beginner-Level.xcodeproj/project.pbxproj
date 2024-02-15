@@ -22,6 +22,7 @@
 		07A189332B7A7E3700125D9F /* ExtractedSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A189322B7A7E3700125D9F /* ExtractedSubviewsBootcamp.swift */; };
 		07A189352B7A7E7C00125D9F /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A189342B7A7E7C00125D9F /* BindingBootcamp.swift */; };
 		07A8FEF52B7E51BA0025334E /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A8FEF42B7E51BA0025334E /* DatePickerBootcamp.swift */; };
+		07A8FEF72B7E540D0025334E /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A8FEF62B7E540D0025334E /* StepperBootcamp.swift */; };
 		07B4053D2B78D3F4001D2AF1 /* SwiftUI_Beginner_LevelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B4053C2B78D3F4001D2AF1 /* SwiftUI_Beginner_LevelApp.swift */; };
 		07B405412B78D3F6001D2AF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07B405402B78D3F6001D2AF1 /* Assets.xcassets */; };
 		07B405452B78D3F6001D2AF1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07B405442B78D3F6001D2AF1 /* Preview Assets.xcassets */; };
@@ -66,6 +67,7 @@
 		07A189322B7A7E3700125D9F /* ExtractedSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedSubviewsBootcamp.swift; sourceTree = "<group>"; };
 		07A189342B7A7E7C00125D9F /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		07A8FEF42B7E51BA0025334E /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
+		07A8FEF62B7E540D0025334E /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		07B405392B78D3F4001D2AF1 /* SwiftUI-Beginner-Level.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Beginner-Level.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07B4053C2B78D3F4001D2AF1 /* SwiftUI_Beginner_LevelApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Beginner_LevelApp.swift; sourceTree = "<group>"; };
 		07B405402B78D3F6001D2AF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -192,6 +194,7 @@
 				0789F47F2B7D251E0077C37E /* PickerBootcamp.swift */,
 				0789F4812B7D297D0077C37E /* ColorPickerBootcamp.swift */,
 				07A8FEF42B7E51BA0025334E /* DatePickerBootcamp.swift */,
+				07A8FEF62B7E540D0025334E /* StepperBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				07A189312B7A7DE000125D9F /* ExtractedFunctionsBootcamp.swift in Sources */,
 				07C3783C2B7BAE5F00E1A352 /* TernaryBootcamp.swift in Sources */,
 				07B4055A2B78E237001D2AF1 /* FrameBootcamp.swift in Sources */,
+				07A8FEF72B7E540D0025334E /* StepperBootcamp.swift in Sources */,
 				07FAA20B2B79FC32009C5EC4 /* ForEachBootcamp.swift in Sources */,
 				07FAA20D2B79FE21009C5EC4 /* ScrollViewBootcamp.swift in Sources */,
 				07B4054E2B78D635001D2AF1 /* TextBootcamp.swift in Sources */,
