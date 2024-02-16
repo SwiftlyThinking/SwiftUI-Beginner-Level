@@ -41,6 +41,7 @@
 		07A380772B7FD9CA00645CA6 /* SafeAreaInsetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A380762B7FD9CA00645CA6 /* SafeAreaInsetBootcamp.swift */; };
 		07A380792B7FDB0600645CA6 /* GroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A380782B7FDB0600645CA6 /* GroupBootcamp.swift */; };
 		07A3807B2B7FDBDC00645CA6 /* MenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A3807A2B7FDBDC00645CA6 /* MenuBootcamp.swift */; };
+		07A3807D2B7FDD5D00645CA6 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A3807C2B7FDD5D00645CA6 /* PopoverBootcamp.swift */; };
 		07A8FEF52B7E51BA0025334E /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A8FEF42B7E51BA0025334E /* DatePickerBootcamp.swift */; };
 		07A8FEF72B7E540D0025334E /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A8FEF62B7E540D0025334E /* StepperBootcamp.swift */; };
 		07A8FEF92B7E55C80025334E /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A8FEF82B7E55C80025334E /* SliderBootcamp.swift */; };
@@ -107,6 +108,7 @@
 		07A380762B7FD9CA00645CA6 /* SafeAreaInsetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetBootcamp.swift; sourceTree = "<group>"; };
 		07A380782B7FDB0600645CA6 /* GroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBootcamp.swift; sourceTree = "<group>"; };
 		07A3807A2B7FDBDC00645CA6 /* MenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBootcamp.swift; sourceTree = "<group>"; };
+		07A3807C2B7FDD5D00645CA6 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		07A8FEF42B7E51BA0025334E /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 		07A8FEF62B7E540D0025334E /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		07A8FEF82B7E55C80025334E /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
@@ -258,6 +260,7 @@
 				07A380762B7FD9CA00645CA6 /* SafeAreaInsetBootcamp.swift */,
 				07A380782B7FDB0600645CA6 /* GroupBootcamp.swift */,
 				07A3807A2B7FDBDC00645CA6 /* MenuBootcamp.swift */,
+				07A3807C2B7FDD5D00645CA6 /* PopoverBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -374,6 +377,7 @@
 				0789F4802B7D251E0077C37E /* PickerBootcamp.swift in Sources */,
 				07A380772B7FD9CA00645CA6 /* SafeAreaInsetBootcamp.swift in Sources */,
 				0789F4722B7D0CC60077C37E /* ListBootcamp.swift in Sources */,
+				07A3807D2B7FDD5D00645CA6 /* PopoverBootcamp.swift in Sources */,
 				07C378402B7BB15A00E1A352 /* AnimationTimingBootcamp.swift in Sources */,
 				07A189312B7A7DE000125D9F /* ExtractedFunctionsBootcamp.swift in Sources */,
 				071667BC2B7E9CBD008A2851 /* AppStorageBootcamp.swift in Sources */,
