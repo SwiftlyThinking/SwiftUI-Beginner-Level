@@ -23,7 +23,6 @@ struct AsyncImageBootcamp: View {
         } placeholder: {
             ProgressView()
         }
-            
     }
 }
 
