@@ -15,6 +15,7 @@
 		071667B82B7E92D0008A2851 /* ObservableObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071667B72B7E92D0008A2851 /* ObservableObjectBootcamp.swift */; };
 		071667BA2B7E9905008A2851 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071667B92B7E9905008A2851 /* EnvironmentObjectBootcamp.swift */; };
 		071667BC2B7E9CBD008A2851 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071667BB2B7E9CBD008A2851 /* AppStorageBootcamp.swift */; };
+		075D675D2B8CE81F009DCA11 /* ControlGroupMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075D675C2B8CE81F009DCA11 /* ControlGroupMenuBootcamp.swift */; };
 		0789F4722B7D0CC60077C37E /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4712B7D0CC60077C37E /* ListBootcamp.swift */; };
 		0789F4742B7D11C40077C37E /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4732B7D11C40077C37E /* AlertBootcamp.swift */; };
 		0789F4762B7D16A70077C37E /* ConfirmationDialogBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */; };
@@ -87,6 +88,7 @@
 		071667B72B7E92D0008A2851 /* ObservableObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableObjectBootcamp.swift; sourceTree = "<group>"; };
 		071667B92B7E9905008A2851 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		071667BB2B7E9CBD008A2851 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
+		075D675C2B8CE81F009DCA11 /* ControlGroupMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupMenuBootcamp.swift; sourceTree = "<group>"; };
 		0789F4712B7D0CC60077C37E /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		0789F4732B7D11C40077C37E /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		0789F4752B7D16A70077C37E /* ConfirmationDialogBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogBootcamp.swift; sourceTree = "<group>"; };
@@ -276,6 +278,7 @@
 				07B61D192B8B955000254BBF /* NavigationSplitViewBootcamp.swift */,
 				07B61D1B2B8B9D3300254BBF /* GridViewBootcamp.swift */,
 				07B61D1D2B8BA1C500254BBF /* ContentUnavailableViewBootcamp.swift */,
+				075D675C2B8CE81F009DCA11 /* ControlGroupMenuBootcamp.swift */,
 			);
 			path = Files;
 			sourceTree = "<group>";
@@ -383,6 +386,7 @@
 				07FAA20F2B79FFF3009C5EC4 /* GridBootcamp.swift in Sources */,
 				07A380612B7FBE0100645CA6 /* AsyncImageBootcamp.swift in Sources */,
 				07A380692B7FC2D200645CA6 /* SwipeActionBootcamp.swift in Sources */,
+				075D675D2B8CE81F009DCA11 /* ControlGroupMenuBootcamp.swift in Sources */,
 				07C378482B7BB95200E1A352 /* NavigationViewBootcamp.swift in Sources */,
 				07A380752B7FD73C00645CA6 /* ResizableSheetsBootcmap.swift in Sources */,
 				07B4055E2B78EBA2001D2AF1 /* StacksBootcamp.swift in Sources */,
